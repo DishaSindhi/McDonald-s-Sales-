@@ -36,10 +36,11 @@ This project focuses on analyzing **McDonald’s sales and order data** to extra
    * Friday & Saturday → \~20% each (highest revenue days)
    * Tuesday → lowest revenue (\~15% drop compared to peak days)
 
-##  Project Deliverables(https://drive.google.com/drive/folders/1raeubcRpUisUUuDyY6ezvfc7VHHydpoV)
+##  Project Deliverables
 
 * **Dashboard** → Visual insights of McDonald’s sales performance.
 * **Executive Summary** → Clear breakdown of revenue, categories, and trends.
+* **Dataset** → [McDonald's Sales](https://drive.google.com/drive/folders/1raeubcRpUisUUuDyY6ezvfc7VHHydpoV)
 
 ##  Tools & Technologies
 
@@ -57,7 +58,7 @@ This project focuses on analyzing **McDonald’s sales and order data** to extra
 
  **Disha Sindhi**
 
-* 📧 Email: [dishasindhi7@gmail.com](mailto:dishasindhi7@gmail.com)
-* 🔗 [LinkedIn](https://www.linkedin.com/in/disha-sindhi-b0092732a/)
-* 📂 [Portfolio](https://www.wscubetech.com/portfolio/data/disha-sindhi-rsk7ymi)
-* 💻 [GitHub](https://github.com/DishaSindhi)
+*  Email: [dishasindhi7@gmail.com](mailto:dishasindhi7@gmail.com)
+*  [LinkedIn](https://www.linkedin.com/in/disha-sindhi-b0092732a/)
+*  [Portfolio](https://www.wscubetech.com/portfolio/data/disha-sindhi-rsk7ymi)
+*  [GitHub](https://github.com/DishaSindhi)
